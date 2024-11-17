@@ -5,3 +5,7 @@ edition = "2021"
 
 [dependencies]
 composerr = { git = "https://github.com/nain-F49FF806/composerr.git", version = "0.2.4" }
+thiserror = "2.0.3"
+
+[dev-dependencies]
+rand = "0.8.5"
