@@ -1,4 +1,4 @@
-use composerr::compose_errors;
+use compounderr::compose_errors;
 use std::fmt::Display;
 
 #[compose_errors]

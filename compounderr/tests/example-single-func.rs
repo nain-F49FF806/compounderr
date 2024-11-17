@@ -1,4 +1,4 @@
-use composerr::compose_errors;
+use compounderr::compose_errors;
 use rand::Rng;
 use std::{fmt::Error as FmtError, io::Error as IoError};
 
