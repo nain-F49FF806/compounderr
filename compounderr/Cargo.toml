@@ -1,10 +1,10 @@
 [package]
 name = "compounderr"
-version = "0.1.1"
+version = "0.2.0"
 edition = "2021"
 
 [dependencies]
-composerr = { git = "https://github.com/nain-F49FF806/composerr.git", version = "0.2.6" }
+compounderr-proc-macro = { git = "https://github.com/nain-F49FF806/compounderr.git", version = "0.2.6" }
 thiserror = { version = "2.0.3", features = ["std"] }
 
 [dev-dependencies]

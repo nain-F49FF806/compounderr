@@ -1,6 +1,6 @@
 [package]
-name = "composerr"
-version = "0.2.6"
+name = "compounderr-proc-macro"
+version = "0.3.0"
 edition = "2021"
 
 [dependencies]
