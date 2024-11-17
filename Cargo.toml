@@ -1,10 +1,10 @@
 [package]
 name = "compounderr"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 [dependencies]
-composerr = { git = "https://github.com/nain-F49FF806/composerr.git", version = "0.2.4" }
+composerr = { git = "https://github.com/nain-F49FF806/composerr.git", version = "0.2.6" }
 thiserror = "2.0.3"
 
 [dev-dependencies]
